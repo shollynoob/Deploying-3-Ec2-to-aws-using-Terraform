@@ -15,3 +15,16 @@ Deploying 3 Ec2 using Terraform
 * Your project is complete when one visits terraform-test.yoursdmain.com and it shows the content from your instances, while rotating between the servers as your refresh to display their unique content.
 
 * Submit both the Ansible and Terraform files created
+
+
+altschool_server_public_ip = [
+  "54.167.251.149",
+  "44.198.178.228",
+  "54.87.190.49",
+]
+
+aws_lb_altschool_elb_dns_name = "tf-lb-20230204214424836900000003-1056704749.us-east-1.elb.amazonaws.com"
+aws_lb_altschool_elb_zone_id = "Z35SXDOTRQ7X7K"
+
+
+http://terraform-test.iamolusola.com/
