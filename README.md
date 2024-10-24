@@ -1,4 +1,4 @@
-# Altschool-Terraform
+# Deploying-3-Ec2-to-aws-using-Terraform-Terraform
 Deploying 3 Ec2 using Terraform
 
 
